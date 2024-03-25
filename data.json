@@ -1,0 +1,386 @@
+{
+  "hiragana": [
+    {
+      "caractere": "あ",
+      "nom": "あ",
+      "prononciation": "a"
+    },
+    {
+      "caractere": "い",
+      "nom": "い",
+      "prononciation": "i"
+    },
+    {
+      "caractere": "う",
+      "nom": "う",
+      "prononciation": "u"
+    },
+    {
+      "caractere": "え",
+      "nom": "え",
+      "prononciation": "e"
+    },
+    {
+      "caractere": "お",
+      "nom": "お",
+      "prononciation": "o"
+    },
+    {
+      "caractere": "か",
+      "nom": "か",
+      "prononciation": "ka"
+    },
+    {
+      "caractere": "き",
+      "nom": "き",
+      "prononciation": "ki"
+    },
+    {
+      "caractere": "く",
+      "nom": "く",
+      "prononciation": "ku"
+    },
+    {
+      "caractere": "け",
+      "nom": "け",
+      "prononciation": "ke"
+    },
+    {
+      "caractere": "こ",
+      "nom": "こ",
+      "prononciation": "ko"
+    },
+    {
+      "caractere": "さ",
+      "nom": "さ",
+      "prononciation": "sa"
+    },
+    {
+      "caractere": "し",
+      "nom": "し",
+      "prononciation": "shi"
+    },
+    {
+      "caractere": "す",
+      "nom": "す",
+      "prononciation": "su"
+    },
+    {
+      "caractere": "せ",
+      "nom": "せ",
+      "prononciation": "se"
+    },
+    {
+      "caractere": "そ",
+      "nom": "そ",
+      "prononciation": "so"
+    },
+    {
+      "caractere": "た",
+      "nom": "た",
+      "prononciation": "ta"
+    },
+    {
+      "caractere": "ち",
+      "nom": "ち",
+      "prononciation": "chi"
+    },
+    {
+      "caractere": "つ",
+      "nom": "つ",
+      "prononciation": "tsu"
+    },
+    {
+      "caractere": "て",
+      "nom": "て",
+      "prononciation": "te"
+    },
+    {
+      "caractere": "と",
+      "nom": "と",
+      "prononciation": "to"
+    },
+    {
+      "caractere": "な",
+      "nom": "な",
+      "prononciation": "na"
+    },
+    {
+      "caractere": "に",
+      "nom": "に",
+      "prononciation": "ni"
+    },
+    {
+      "caractere": "ぬ",
+      "nom": "ぬ",
+      "prononciation": "nu"
+    },
+    {
+      "caractere": "ね",
+      "nom": "ね",
+      "prononciation": "ne"
+    },
+    {
+      "caractere": "の",
+      "nom": "の",
+      "prononciation": "no"
+    },
+    {
+      "caractere": "は",
+      "nom": "は",
+      "prononciation": "ha"
+    },
+    {
+      "caractere": "ひ",
+      "nom": "ひ",
+      "prononciation": "hi"
+    },
+    {
+      "caractere": "ふ",
+      "nom": "ふ",
+      "prononciation": "fu"
+    },
+    {
+      "caractere": "へ",
+      "nom": "へ",
+      "prononciation": "he"
+    },
+    {
+      "caractere": "ほ",
+      "nom": "ほ",
+      "prononciation": "ho"
+    },
+    {
+      "caractere": "ま",
+      "nom": "ま",
+      "prononciation": "ma"
+    },
+    {
+      "caractere": "み",
+      "nom": "み",
+      "prononciation": "mi"
+    },
+    {
+      "caractere": "む",
+      "nom": "む",
+      "prononciation": "mu"
+    },
+    {
+      "caractere": "め",
+      "nom": "め",
+      "prononciation": "me"
+    },
+    {
+      "caractere": "も",
+      "nom": "も",
+      "prononciation": "mo"
+    },
+    {
+      "caractere": "や",
+      "nom": "や",
+      "prononciation": "ya"
+    },
+    {
+      "caractere": "ゆ",
+      "nom": "ゆ",
+      "prononciation": "yu"
+    },
+    {
+      "caractere": "よ",
+      "nom": "よ",
+      "prononciation": "yo"
+    }
+  ],
+  "katakana": [
+    {
+      "caractere": "ア",
+      "nom": "ア",
+      "prononciation": "a"
+    },
+    {
+      "caractere": "イ",
+      "nom": "イ",
+      "prononciation": "i"
+    },
+    {
+      "caractere": "ウ",
+      "nom": "ウ",
+      "prononciation": "u"
+    },
+    {
+      "caractere": "エ",
+      "nom": "エ",
+      "prononciation": "e"
+    },
+    {
+      "caractere": "オ",
+      "nom": "オ",
+      "prononciation": "o"
+    },
+    {
+      "caractere": "カ",
+      "nom": "カ",
+      "prononciation": "ka"
+    },
+    {
+      "caractere": "キ",
+      "nom": "キ",
+      "prononciation": "ki"
+    },
+    {
+      "caractere": "ク",
+      "nom": "ク",
+      "prononciation": "ku"
+    },
+    {
+      "caractere": "ケ",
+      "nom": "ケ",
+      "prononciation": "ke"
+    },
+    {
+      "caractere": "コ",
+      "nom": "コ",
+      "prononciation": "ko"
+    },
+    {
+      "caractere": "サ",
+      "nom": "サ",
+      "prononciation": "sa"
+    },
+    {
+      "caractere": "シ",
+      "nom": "シ",
+      "prononciation": "shi"
+    },
+    {
+      "caractere": "ス",
+      "nom": "ス",
+      "prononciation": "su"
+    },
+    {
+      "caractere": "セ",
+      "nom": "セ",
+      "prononciation": "se"
+    },
+    {
+      "caractere": "ソ",
+      "nom": "ソ",
+      "prononciation": "so"
+    },
+    {
+      "caractere": "タ",
+      "nom": "タ",
+      "prononciation": "ta"
+    },
+    {
+      "caractere": "チ",
+      "nom": "チ",
+      "prononciation": "chi"
+    },
+    {
+      "caractere": "ツ",
+      "nom": "ツ",
+      "prononciation": "tsu"
+    },
+    {
+      "caractere": "テ",
+      "nom": "テ",
+      "prononciation": "te"
+    },
+    {
+      "caractere": "ト",
+      "nom": "ト",
+      "prononciation": "to"
+    },
+    {
+      "caractere": "ナ",
+      "nom": "ナ",
+      "prononciation": "na"
+    },
+    {
+      "caractere": "ニ",
+      "nom": "ニ",
+      "prononciation": "ni"
+    },
+    {
+      "caractere": "ヌ",
+      "nom": "ヌ",
+      "prononciation": "nu"
+    },
+    {
+      "caractere": "ネ",
+      "nom": "ネ",
+      "prononciation": "ne"
+    },
+    {
+      "caractere": "ノ",
+      "nom": "ノ",
+      "prononciation": "no"
+    },
+    {
+      "caractere": "ハ",
+      "nom": "ハ",
+      "prononciation": "ha"
+    },
+    {
+      "caractere": "ヒ",
+      "nom": "ヒ",
+      "prononciation": "hi"
+    },
+    {
+      "caractere": "フ",
+      "nom": "フ",
+      "prononciation": "fu"
+    },
+    {
+      "caractere": "ヘ",
+      "nom": "ヘ",
+      "prononciation": "he"
+    },
+    {
+      "caractere": "ホ",
+      "nom": "ホ",
+      "prononciation": "ho"
+    },
+    {
+      "caractere": "マ",
+      "nom": "マ",
+      "prononciation": "ma"
+    },
+    {
+      "caractere": "ミ",
+      "nom": "ミ",
+      "prononciation": "mi"
+    },
+    {
+      "caractere": "ム",
+      "nom": "ム",
+      "prononciation": "mu"
+    },
+    {
+      "caractere": "メ",
+      "nom": "メ",
+      "prononciation": "me"
+    },
+    {
+      "caractere": "モ",
+      "nom": "モ",
+      "prononciation": "mo"
+    },
+    {
+      "caractere": "ヤ",
+      "nom": "ヤ",
+      "prononciation": "ya"
+    },
+    {
+      "caractere": "ユ",
+      "nom": "ユ",
+      "prononciation": "yu"
+    },
+    {
+      "caractere": "ヨ",
+      "nom": "ヨ",
+      "prononciation": "yo"
+    }
+  ]
+}

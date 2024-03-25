@@ -1,0 +1,74 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  user-select: none;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #5a8ae9;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 10px #4670b8;
+  transition: all 0.2s;
+}
+
+.button:hover {
+  background-color: rgb(106, 146, 247);
+}
+
+.button:active {
+  box-shadow: 0 5px #467bb8;
+  transform: translateY(4px);
+}
+
+.hidden {
+  display: none;
+}
+
+#gameArea {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.tile {
+  width: 30px;
+  height: 150px;
+  border: 2px solid #757070;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  font-size: 30px;
+  font-weight: bold;
+  background-color: #fff;
+  flex: 0 0 17%;
+  cursor: pointer;
+}
+
+.tile:hover {
+  background-color: #f0f0f0;
+}
+
+.matched {
+  background-color: #b5e7a0;
+  border: 2px solid #5e9c60;
+}
+
+.matched:hover {
+  background-color: #b5e7a0;
+  cursor: default;
+}
